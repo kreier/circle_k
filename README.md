@@ -1,5 +1,5 @@
 # circle_k
-Replicate the Circle K generative art pattern in p5js.org
+Replicate the Circle K generative art pattern in [p5js.org](https://editor.p5js.org/).
 
 <img src="result.png" align="right" width="40%">
 
@@ -44,3 +44,10 @@ function draw() {
 
 }
 ```
+
+## Student work
+
+![work](https://github.com/IsNotAvaliable/Circle_K_Pattern/blob/main/result_william.png)
+![work](https://github.com/DanDC25/Circle_K_Generative_Art/blob/main/result_dan.png)
+![work](https://github.com/dongdongthedingdong/Circle-K-Project/blob/main/result.png)
+![work](https://github.com/khangpham24/CircleK_Art_Khang/blob/main/circle_k.png)
