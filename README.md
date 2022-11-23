@@ -5,7 +5,7 @@ Replicate the Circle K generative art pattern in p5js.org
 
 It's not the first solution, several students tried this:
 
-- [William]() - [Circle K](https://github.com/IsNotAvaliable/Circle_K_Pattern)
+- [William](https://github.com/IsNotAvaliable) - [Circle K](https://github.com/IsNotAvaliable/Circle_K_Pattern)
 - [Dan](https://github.com/DanDC25) - [Circle K](https://github.com/DanDC25/Circle_K_Generative_Art)
 - [Dongjae](https://github.com/dongdongthedingdong) - [Circle K](https://github.com/dongdongthedingdong/Circle-K-Project)
 - [Khang](https://github.com/khangpham24) - [Circle K](https://github.com/khangpham24/CircleK_Art_Khang)
