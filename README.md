@@ -1,7 +1,8 @@
 # circle_k
-Replicate the Circle K generative art pattern in [p5js.org](https://editor.p5js.org/).
 
-<img src="result.png" align="right" width="40%">
+<img src="result2.png" align="right" width="40%">
+
+Replicate the Circle K generative art pattern in [p5js.org](https://editor.p5js.org/).
 
 It's not the first solution, several students tried this:
 
