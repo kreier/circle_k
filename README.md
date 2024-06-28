@@ -1,4 +1,10 @@
-# circle_k
+# Generative Art Pattern at Circle K
+
+[![pages-build-deployment](https://github.com/kreier/circle_k/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/kreier/circle_k/actions/workflows/pages/pages-build-deployment)
+[![GitHub release](https://img.shields.io/github/release/kreier/circle_k.svg)](https://GitHub.com/kreier/timeline/releases/)
+[![MIT license](https://img.shields.io/github/license/kreier/circle_k)](https://kreier.mit-license.org/)
+
+This is part of [Unit 3: Collaborative Code](https://github.com/ssis-aa/collaborative-code) of the [Advanced Automation](https://github.com/ssis-aa) course at SSIS.
 
 <img src="result2.png" align="right" width="40%">
 
