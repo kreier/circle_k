@@ -54,7 +54,14 @@ function draw() {
 
 ## Student work
 
+<!--
 ![work](https://github.com/IsNotAvaliable/Circle_K_Pattern/blob/main/result_william.png)
 ![work](https://github.com/DanDC25/Circle_K_Generative_Art/blob/main/result_dan.png)
 ![work](https://github.com/dongdongthedingdong/Circle-K-Project/blob/main/result.png)
 ![work](https://github.com/khangpham24/CircleK_Art_Khang/blob/main/circle_k.png)
+-->
+
+![work](https://raw.githubusercontent.com/IsNotAvaliable/Circle_K_Pattern/main/result_william.png)
+![work](https://raw.githubusercontent.com/DanDC25/Circle_K_Generative_Art/main/result_dan.png)
+![work](https://raw.githubusercontent.com/dongdongthedingdong/Circle-K-Project/main/result.png)
+![work](https://raw.githubusercontent.com/khangpham24/CircleK_Art_Khang/main/circle_k.png)
