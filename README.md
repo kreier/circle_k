@@ -1,7 +1,7 @@
 # Generative Art Pattern at Circle K
 
 [![Deploy Jekyll with GitHub Pages](https://github.com/kreier/circle_k/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/kreier/circle_k/actions/workflows/jekyll-gh-pages.yml)
-[![GitHub release](https://img.shields.io/github/release/kreier/circle_k.svg)](https://GitHub.com/kreier/timeline/releases/)
+[![GitHub release](https://img.shields.io/github/release/kreier/circle_k.svg)](https://GitHub.com/kreier/circle_k/releases/)
 [![MIT license](https://img.shields.io/github/license/kreier/circle_k)](https://kreier.mit-license.org/)
 
 This is part of [Unit 3: Collaborative Code](https://github.com/ssis-aa/collaborative-code) of the [Advanced Automation](https://github.com/ssis-aa) course at SSIS.
