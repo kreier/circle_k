@@ -1,6 +1,6 @@
 # Generative Art Pattern at Circle K
 
-[![pages-build-deployment](https://github.com/kreier/circle_k/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/kreier/circle_k/actions/workflows/pages/pages-build-deployment)
+[![Deploy Jekyll with GitHub Pages](https://github.com/kreier/circle_k/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/kreier/circle_k/actions/workflows/jekyll-gh-pages.yml)
 [![GitHub release](https://img.shields.io/github/release/kreier/circle_k.svg)](https://GitHub.com/kreier/timeline/releases/)
 [![MIT license](https://img.shields.io/github/license/kreier/circle_k)](https://kreier.mit-license.org/)
 
